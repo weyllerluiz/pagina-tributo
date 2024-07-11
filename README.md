@@ -18,12 +18,12 @@ Este projeto consiste em uma página simples em HTML e CSS dedicada à homenagem
 
 📷 **Captura de Tela**
 
-![Captura de tela da página de homenagem](./images/alan-turing.png){:width="300px" height="200px"}
+<img src="./images/alan-turing.png" alt="Alan Turing" width="300" height="200">
 
 📚 **Recursos e Referências**
 
 - Para mais informações sobre Alan Turing [clique link](https://pt.wikipedia.org/wiki/Alan_Turing).
-  ![Imagem de Alan Turing utilizada na página.](./images/alan-turing2.jpg){:width="300px" height="200px"}
+  <img src="./images/alan-turing2.jpg" alt="Alan Turing" width="300" height="200">
 
 🔧 **Contribuições**
 
