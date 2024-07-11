@@ -1,4 +1,4 @@
-Homenagem a Alan Turing 🖥️
+# **Homenagem a Alan Turing** 🖥️
 
 Este projeto consiste em uma página simples em HTML e CSS dedicada à homenagem ao grande cientista Alan Turing.
 
@@ -9,7 +9,7 @@ Este projeto consiste em uma página simples em HTML e CSS dedicada à homenagem
 
 🌐 **Visualização Online**
 
-- Para ver a homenagem completa [clique aqui](https://github.com/weyllerluiz/pagina-tributo.git).
+- Para ver a homenagem completa [clique aqui](https://weyllerluiz.github.io/pagina-tributo/).
 
 🛠️ **Instruções de Uso**
 
@@ -18,12 +18,12 @@ Este projeto consiste em uma página simples em HTML e CSS dedicada à homenagem
 
 📷 **Captura de Tela**
 
-- ![Captura de tela da página de homenagem](./images/alan-turing.png)
+![Captura de tela da página de homenagem](./images/alan-turing.png){:width="300px" height="200px"}
 
 📚 **Recursos e Referências**
 
 - Para mais informações sobre Alan Turing [clique link](https://pt.wikipedia.org/wiki/Alan_Turing).
-- ![Imagem de Alan Turing utilizada na página.](./images/alan-turing2.jpg)
+  ![Imagem de Alan Turing utilizada na página.](./images/alan-turing2.jpg){:width="300px" height="200px"}
 
 🔧 **Contribuições**
 
